@@ -15,7 +15,7 @@ once you print the desired three, you can decorate it with the printing of the t
 def printTreeLevel(level, totalLevels):
     # base case / stopping case
 
-    # call itself again to solve for it "simpler" problem 
+    # call itself again to solve for a "simpler" problem 
     printTreeLevel()
 
 
